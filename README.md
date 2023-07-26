@@ -1,16 +1,32 @@
-# flutter_will_pop_scope
+# Will Pop Scope
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/hakkinenT/flutter_will_pop_scope/blob/master/LICENSE) 
 
-A new Flutter project.
+# Sobre o projeto
 
-## Getting Started
+Will Pop Scope é um projeto simples, desenvolvido com o objetivo de explorar a navegação entre telas usando o Botão Voltar do Aparelho Celular, por meio do uso da classe WillPopScope do Flutter.
 
-This project is a starting point for a Flutter application.
+# Tecnologias utilizadas
+- Flutter
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Como executar o projeto
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+# clonar repositório
+git clone https://github.com/hakkinenT/flutter_scroll_controller.git
+
+# entrar na pasta do projeto 
+cd flutter_will_pop_scope
+
+# instalar dependências
+flutter pub get
+
+# executar o projeto
+flutter run
+```
+
+# Autor
+
+Tawanna Hakkinen Oliveira Leite
+
+https://www.linkedin.com/in/tawannahakkinen/
